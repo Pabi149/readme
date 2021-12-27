@@ -1,8 +1,8 @@
 
-## README-Generator
+# README-Generator
 https://github.com/Pabi149/README-Generator
-# Description
-This app allows developers to create a professional README.md file in an easy way.
+## Description
+This app allows developers to create a professional README.md file ina an easy and quick way.
 # Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -10,16 +10,17 @@ This app allows developers to create a professional README.md file in an easy wa
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-# Installation
-The following necessary dependencies must be installed to run the application properly: inquire,fs,util
-# Usage
-In order to use this app, Open the terminal and run it, start by typing node 'index.js' then hit enter and simply answer the given questions.
-# License
+## Installation
+The following necessary dependencies must be installed to run the application properly: inquire, fs, util
+## Usage
+In order to use this app, Open the file and run it in the terminal by typing (node index.js) then hit enter and simply answer the questions as they come.
+## License
 This project is licensed under the MIT license. 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-# Contributing
-​Contributors: Pabitra
-# Tests
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg).
+If you need help choosing a license, use https://choosealicense.com/
+## Contributing
+​Contributors: Your Name
+##Tests
 The following is needed to run the test: node index.js
-# Questions
+## Questions
 If you have any questions about the repo, open an issue or contact Pabi149 directly at : Pabi06p@hotmail.com.
