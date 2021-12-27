@@ -14,12 +14,13 @@ This app allows developers to create a professional README.md file ina an easy a
 The following necessary dependencies must be installed to run the application properly: inquire, fs, util
 ## Usage
 In order to use this app, Open the file and run it in the terminal by typing (node index.js) then hit enter and simply answer the questions as they come.
+![](/Untitled_ Dec 26, 2021 11_01 PM.gif)
 ## License
 This project is licensed under the MIT license. 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg).
 If you need help choosing a license, use https://choosealicense.com/
 ## Contributing
-​Contributors: Your Name
+​Contributors: Pabitra
 ##Tests
 The following is needed to run the test: node index.js
 ## Questions
