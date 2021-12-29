@@ -14,6 +14,7 @@ This app allows developers to create a professional README.md file ina an easy a
 The following necessary dependencies must be installed to run the application properly: inquire, fs, util
 ## Usage
 In order to use this app, Open the file and run it in the terminal by typing (node index.js) then hit enter and simply answer the questions as they come.
+
 ![image](https://user-images.githubusercontent.com/90426266/147625418-fec2aa0a-a93d-4485-b831-4782567e02f9.png)
 
  
