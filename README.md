@@ -16,7 +16,7 @@ The following necessary dependencies must be installed to run the application pr
 In order to use this app, Open the file and run it in the terminal by typing (node index.js) then hit enter and simply answer the questions as they come.
 
 
-![Demonstration video](https://drive.google.com/file/d/1eLIAg1y9IsZjwPraE_TdL6FAB9202mJg/preview).
+![Demonstration video](https://drive.google.com/file/d/1eLIAg1y9IsZjwPraE_TdL6FAB9202mJg/view).
  
 ## License
 This project is licensed under the MIT license. 
