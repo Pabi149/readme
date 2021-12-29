@@ -1,6 +1,7 @@
 
 # README-Generator
 https://github.com/Pabi149/README-Generator
+
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg).
 ## Description
 This app allows developers to create a professional README.md file ina an easy and quick way.
@@ -20,7 +21,7 @@ In order to use this app, Open the file and run it in the terminal by typing (no
  
 ## License
 This project is licensed under the MIT license. 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg).
+
 If you need help choosing a license, use https://choosealicense.com/
 ## Contributing
 ​Contributors: Pabitra
@@ -28,4 +29,4 @@ If you need help choosing a license, use https://choosealicense.com/
 The following is needed to run the test: node index.js
 ## Questions
 If you have any questions about the repo, open an issue or contact Pabi149 directly at : Pabi06p@hotmail.com.
-## Deployement Link: 
+## Deployement Link: https://pabi149.github.io/readme/
