@@ -4,7 +4,7 @@ https://github.com/Pabi149/README-Generator
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg).
 ## Description
-This app allows developers to create a professional README.md file ina an easy and quick way.
+This app allows developers to create a professional README.md file in a an easy and quick way.
 # Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
